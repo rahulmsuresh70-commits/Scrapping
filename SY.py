@@ -15,4 +15,4 @@ with open("books.txt", "w", encoding="utf-8") as file:
 
 driver.quit()
 
-print("Scraping completed successfully!")
+print("Scraping successfully!")
